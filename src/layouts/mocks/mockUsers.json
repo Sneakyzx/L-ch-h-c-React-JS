@@ -1,0 +1,220 @@
+{
+    "dates": {
+        "maximum": "2022-12-18",
+        "minimum": "2022-10-31"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 1,
+            "email": "phamvana@gmail.com",
+            "password": "12345678",
+            "name": "Pham Van A",
+            "ethnic": "Kinh",
+            "religion": "Không",
+            "nation": "Việt Nam",
+            "province": "Hà Nội",
+            "district": "Thanh Xuân",
+            "phone_number": "0123456789",
+            "student_code": "35D29209",
+            "class": "K57I2",
+            "gender": "Nữ",
+            "Citizen_identify": "123456789",
+            "name_contact": "Nguyễn Văn A",
+            "phone_contact": "0987654321",
+            "address_contact": "Hà Nội",
+            "course": "Code Intensive",
+            "date": "10/10/2022",
+            "time": "2 tháng",
+            "title": "Hướng dẫn",
+            "noti_item": [
+                "Hướng dẫn kiểm tra điều kiện tốt nghiệp"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+            "genre_ids": [
+                28,
+                14,
+                878
+            ],
+            "id": 2,
+            "email": "phamvanb@gmail.com",
+            "password": "12345678",
+            "name": "Pham Van B",
+            "ethnic": "Kinh",
+            "religion": "Không",
+            "nation": "Việt Nam",
+            "province": "Hà Nội",
+            "district": "Thanh Xuân",
+            "phone_number": "0123456789",
+            "student_code": "35D29209",
+            "class": "K57I2",
+            "gender": "Nam",
+            "Citizen_identify": "123456789",
+            "name_contact": "Nguyễn Văn A",
+            "phone_contact": "0987654321",
+            "address_contact": "Hà Nội",
+            "course": "Code Intensive",
+            "date": "10/10/2022",
+            "time": "2 tháng",
+            "title": "Lịch thi",
+            "noti_item": [
+                "Lịch thi giữa kỳ và cuối kỳ học kỳ 20171 (cập nhật lịch thi cuối kỳ ngày 16/12/2017)",
+                "Lịch thi giữa kỳ và cuồi kỳ học kỳ hè 20163",
+                "Lịch thi giữa kỳ và cuối kỳ học kỳ 20162-A-AB-B (cập nhật ngày 24/05/2017)"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Yc9q6QuWrMp9nuDm5R8ExNqbEq.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "id": 3,
+            "email": "phamvanc@gmail.com",
+            "password": "12345678",
+            "name": "Pham Van C",
+            "ethnic": "Kinh",
+            "religion": "Không",
+            "nation": "Việt Nam",
+            "province": "Hà Nội",
+            "district": "Thanh Xuân",
+            "phone_number": "0123456789",
+            "student_code": "35D29209",
+            "class": "K57I2",
+            "gender": "Nam",
+            "Citizen_identify": "123456789",
+            "name_contact": "Nguyễn Văn A",
+            "phone_contact": "0987654321",
+            "address_contact": "Hà Nội",
+            "course": "Code Intensive",
+            "date": "10/10/2022",
+            "time": "2 tháng",
+            "title": "Thông báo của ban Quản trị",
+            "noti_item": [
+                "Thông báo lịch thu học phí kỳ 20191 - đợt 2",
+                "THÔNG BÁO Về học phí kỳ I năm học 2019-2020 (20191) đợt 1",
+                "THÔNG BÁO Về học phí kỳ hè năm học 2018-2019 (20183) đợt 2"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vSvogVWimBiaKx9dVCzirh3u9qS.jpg",
+            "genre_ids": [
+                16,
+                14,
+                18
+            ],
+            "id": 4,
+            "email": "phamvand@gmail.com",
+            "password": "12345678",
+            "name": "Pham Van D",
+            "ethnic": "Kinh",
+            "religion": "Không",
+            "nation": "Việt Nam",
+            "province": "Hà Nội",
+            "district": "Thanh Xuân",
+            "phone_number": "0123456789",
+            "student_code": "35D29209",
+            "class": "K57I2",
+            "gender": "Nữ",
+            "Citizen_identify": "123456789",
+            "name_contact": "Nguyễn Văn A",
+            "phone_contact": "0987654321",
+            "address_contact": "Hà Nội",
+            "course": "Code Intensive",
+            "date": "10/10/2022",
+            "time": "2 tháng",
+            "title": "Thông báo đăng ký học tập",
+            "noti_item": [
+                "Thông báo mở đăng ký lớp học kỳ 20182",
+                "Thông báo thu học phí kỳ 20173 đợt 1",
+                "Thông báo về học phí học kỳ 20172 (đợt 2)"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zNE4oUkZnpbCpFiJbbaX4YJOPmE.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 5,
+            "email": "phamvane@gmail.com",
+            "password": "12345678",
+            "name": "Pham Van E",
+            "ethnic": "Kinh",
+            "religion": "Không",
+            "nation": "Việt Nam",
+            "province": "Hà Nội",
+            "district": "Thanh Xuân",
+            "phone_number": "0123456789",
+            "student_code": "35D29209",
+            "class": "K57I2",
+            "gender": "Nữ",
+            "Citizen_identify": "123456789",
+            "name_contact": "Nguyễn Văn A",
+            "phone_contact": "0987654321",
+            "address_contact": "Hà Nội",
+            "course": "Code Intensive",
+            "date": "10/10/2022",
+            "time": "2 tháng",
+            "title": "Thông báo xét nhận đồ án tốt nghiệp",
+            "noti_item": [
+                "Kết quả xét nhận đồ án tốt nghiệp 20191",
+                "Kết quả xét nhận đồ án tốt nghiệp kỳ 20183",
+                "Thông báo về kết quả xét nhận đồ án tốt nghiệp 20182"
+            ]
+
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 6,
+            "email": "phamvanf@gmail.com",
+            "password": "12345678",
+            "name": "Pham Van F",
+            "ethnic": "Kinh",
+            "religion": "Không",
+            "nation": "Việt Nam",
+            "province": "Hà Nội",
+            "district": "Thanh Xuân",
+            "phone_number": "0123456789",
+            "student_code": "35D29209",
+            "class": "K57I2",
+            "gender": "Nữ",
+            "Citizen_identify": "123456789",
+            "name_contact": "Nguyễn Văn A",
+            "phone_contact": "0987654321",
+            "address_contact": "Hà Nội",
+            "course": "Code Intensive",
+            "date": "10/10/2022",
+            "time": "2 tháng",
+            "title": "Thông báo xét tốt nghiệp",
+            "noti_item": [
+                "Lịch mở đăng ký xét tốt nghiệp 20192A",
+                "Mở đăng ký tốt nghiệp đợt 20191B",
+                "Kết quả xét tốt nghiệp đợt 20191-A"
+            ]
+        }
+    ],
+    "total_pages": 101,
+    "total_results": 2012
+}

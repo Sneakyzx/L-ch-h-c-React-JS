@@ -1,0 +1,43 @@
+{
+    "dates": {
+        "maximum": "2022-12-18",
+        "minimum": "2022-10-31"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 76600,
+            "original_language": "en",
+            "original_title": "Avatar: The Way of Water",
+            "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+            "popularity": 5132.775,
+            "poster_path": "/94xxm5701CzOdJdUEdIuwqZaowx.jpg",
+            "release_date": "2022-12-14",
+            "title": "10 tin mới nhất",
+            "news_item": [
+                "Lịch mở đăng ký xét tốt nghiệp 20192A",
+                "Mở đăng ký tốt nghiệp đợt 20191B",
+                "Kết quả xét tốt nghiệp đợt 20191-A",
+                "Thông báo lịch thu học phí kỳ 20191 - đợt 2",
+                "Mở đăng ký tốt nghiệp đợt 20191A",
+                "Kết quả xét tốt nghiệp đợt 20183",
+                "THÔNG BÁO về học phí kỳ I năm học 2019 - 2020 (20191) đợt 1",
+                "Kết quả xét nhận đồ án tốt nghiệp 20191",
+                "Mở đăng ký tốt nghiệp 20183 (kỳ hè)",
+                "THÔNG BÁO về học phí kỳ hè năm học 2018 - 2019 (20183) đợt 2"
+            ],
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 684
+        }
+    ],
+    "total_pages": 101,
+    "total_results": 2012
+}

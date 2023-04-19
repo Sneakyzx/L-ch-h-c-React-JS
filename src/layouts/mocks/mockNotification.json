@@ -1,0 +1,159 @@
+{
+    "dates": {
+        "maximum": "2022-12-18",
+        "minimum": "2022-10-31"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 76600,
+            "original_language": "en",
+            "original_title": "Avatar: The Way of Water",
+            "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+            "popularity": 5132.775,
+            "poster_path": "/94xxm5701CzOdJdUEdIuwqZaowx.jpg",
+            "release_date": "2022-12-14",
+            "title": "Hướng dẫn",
+            "noti_item": [
+                "Hướng dẫn kiểm tra điều kiện tốt nghiệp"
+            ],
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 684
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg",
+            "genre_ids": [
+                28,
+                14,
+                878
+            ],
+            "id": 436270,
+            "original_language": "en",
+            "original_title": "Black Adam",
+            "overview": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+            "popularity": 4418.006,
+            "poster_path": "/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg",
+            "release_date": "2022-10-19",
+            "title": "Lịch thi",
+            "noti_item": [
+                "Lịch thi giữa kỳ và cuối kỳ học kỳ 20171 (cập nhật lịch thi cuối kỳ ngày 16/12/2017)",
+                "Lịch thi giữa kỳ và cuồi kỳ học kỳ hè 20163",
+                "Lịch thi giữa kỳ và cuối kỳ học kỳ 20162-A-AB-B (cập nhật ngày 24/05/2017)"
+            ],
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 3044
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Yc9q6QuWrMp9nuDm5R8ExNqbEq.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "id": 19995,
+            "original_language": "en",
+            "original_title": "Avatar",
+            "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+            "popularity": 3424.983,
+            "poster_path": "/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",
+            "release_date": "2009-12-15",
+            "title": "Thông báo của ban Quản trị",
+            "noti_item": [
+                "Thông báo lịch thu học phí kỳ 20191 - đợt 2",
+                "THÔNG BÁO Về học phí kỳ I năm học 2019-2020 (20191) đợt 1",
+                "THÔNG BÁO Về học phí kỳ hè năm học 2018-2019 (20183) đợt 2"
+            ],
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 26995
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vSvogVWimBiaKx9dVCzirh3u9qS.jpg",
+            "genre_ids": [
+                16,
+                14,
+                18
+            ],
+            "id": 555604,
+            "original_language": "en",
+            "original_title": "Guillermo del Toro's Pinocchio",
+            "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
+            "popularity": 3714.019,
+            "poster_path": "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",
+            "release_date": "2022-11-09",
+            "title": "Thông báo đăng ký học tập",
+            "noti_item": [
+                "Thông báo mở đăng ký lớp học kỳ 20182",
+                "Thông báo thu học phí kỳ 20173 đợt 1",
+                "Thông báo về học phí học kỳ 20172 (đợt 2)"
+            ],
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 767
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zNE4oUkZnpbCpFiJbbaX4YJOPmE.jpg",
+            "genre_ids": [
+                28,
+                80
+            ],
+            "id": 1024546,
+            "original_language": "en",
+            "original_title": "Detective Knight: Rogue",
+            "overview": "As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.",
+            "popularity": 1727.789,
+            "poster_path": "/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg",
+            "release_date": "2022-10-21",
+            "title": "Thông báo xét nhận đồ án tốt nghiệp",
+            "noti_item": [
+                "Kết quả xét nhận đồ án tốt nghiệp 20191",
+                "Kết quả xét nhận đồ án tốt nghiệp kỳ 20183",
+                "Thông báo về kết quả xét nhận đồ án tốt nghiệp 20182"
+            ],
+            "video": false,
+            "vote_average": 5.4,
+            "vote_count": 17
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 505642,
+            "original_language": "en",
+            "original_title": "Black Panther: Wakanda Forever",
+            "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+            "popularity": 1591.587,
+            "poster_path": "/ps2oKfhY6DL3alynlSqY97gHSsg.jpg",
+            "release_date": "2022-11-09",
+            "title": "Thông báo xét tốt nghiệp",
+            "noti_item": [
+                "Lịch mở đăng ký xét tốt nghiệp 20192A",
+                "Mở đăng ký tốt nghiệp đợt 20191B",
+                "Kết quả xét tốt nghiệp đợt 20191-A"
+            ],
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1395
+        }
+    ],
+    "total_pages": 101,
+    "total_results": 2012
+}
